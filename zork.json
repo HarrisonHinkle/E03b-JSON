@@ -889,6 +889,9 @@
 			"target": "PASS4"
 		}, {
 			"exit": "NORTH",
+			"target": "CRAW3"
+		}, {
+			"exit": "NORTH",
 			"target": "MIRR1"
 		}, {
 			"exit": "EAST",
