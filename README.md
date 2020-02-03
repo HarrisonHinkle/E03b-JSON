@@ -1,5 +1,5 @@
 # E03b-JSON
-I complete this assignment for my IU Game Technology course by forking the orginal copy of this repository and making the specified changes to all aspect of it. I edited the LICENSE to have my name, edited the README to explain what I have done and made numerous changes to the zork.json that were outline in the in the orignal repository. Those were:
+I completed this assignment for my IU Game Technology course by forking the orginal copy of this repository and making the specified changes to all aspect of it. I edited the LICENSE to have my name, edited the README to explain what I have done and made numerous changes to the zork.json that were outline in the in the orignal repository. Those were:
 
 - Change the exit in FORE3 from UP to DOWN
  - Add a desc in MGRAT: "If you stay here much longer, you will be eaten by a Grue"
